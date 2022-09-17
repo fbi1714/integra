@@ -1,5 +1,5 @@
-# HTPC
-My HTPC docker-compose
+# Integra
+docker-compose file for Integra
 
 ## Folder Structure
 ```
